@@ -6,10 +6,10 @@
 - 🌱 I'm continuously expanding my knowledge in the frontend development ecosystem and embracing new technologies to stay updated with industry trends.
 
 ## Skills
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: ReactJS, Vite
-- **Styling**: Tailwind CSS, CSS
-- **Tools**: Git, GitHub, npm, Yarn
+- 💻 **Languages**: JavaScript, TypeScript
+- ⚛️ **Frameworks**: ReactJS, Vite
+- 🎨 **Styling**: Tailwind CSS, CSS
+- 🛠️ **Tools**: Git, GitHub, npm, Yarn
 
 ## Contact
 - 📫 How to reach me: [huynhleduylinh1311@gmail.com](mailto:huynhleduylinh1311@gmail.com)
