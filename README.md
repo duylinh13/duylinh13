@@ -1,4 +1,4 @@
-# Hi there 👋, I’m @duylinh13
+# Hi there 👋, I’m HUYNH LE DUY LINH @duylinh13
 
 ## About Me
 - 👀 I’m passionate about building seamless user experiences with **ReactJS**, **Vite**, **TypeScript**, **JavaScript**, and **Tailwind CSS**. 
