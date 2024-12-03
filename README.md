@@ -8,7 +8,7 @@
 ## Skills
 - 💻 **Languages**: JavaScript, TypeScript
 - ⚛️ **Frameworks**: ReactJS, Vite
-- 🎨 **Styling**: Tailwind CSS, CSS
+- 🎨 **Styling**: Tailwind CSS, CSS, Antd
 - 🛠️ **Tools**: Git, GitHub, npm, Yarn
 
 ## Contact
