@@ -41,6 +41,7 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Zeplin](https://img.shields.io/badge/-Zeplin-FFCA28?style=flat&logo=zeplin&logoColor=black)
 
 ---
 
