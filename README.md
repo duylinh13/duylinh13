@@ -12,15 +12,15 @@
 
 💻 Frontend Developer with **2+ years of experience** building modern, scalable web applications.  
 
-⚛️ Strong expertise in **ReactJS ecosystem**, focusing on **performance optimization, reusable architecture, and maintainable code**.  
+⚛️ Strong expertise in **ReactJS ecosystem**, focusing on **performance, maintainable architecture, and clean UI systems**.  
 
-🚀 Hands-on experience with **Next.js (App Router, SSR, API routes)** and building production-ready applications.  
+🚀 Hands-on experience with **Next.js (App Router, SSR, SEO optimization)** and production deployment.  
 
-🤖 Advanced usage of **AI tools (ChatGPT, Claude, AI workflows)** to accelerate development, debugging, and learning.  
+🤖 Advanced usage of **AI tools (ChatGPT, Claude, AI workflows)** to accelerate development and debugging.  
 
-🐳 Familiar with **Docker, domain configuration, deployment pipelines**, and real-world production environments.  
+🐳 Familiar with **Docker, domain setup, CI/CD pipelines, and cloud deployment (Vercel)**.  
 
-🎯 Goal: Become a **Senior Frontend Engineer** who builds scalable systems and meaningful products.
+🎯 Goal: Become a **Senior Frontend Engineer** building scalable, high-impact products.
 
 ---
 
@@ -45,22 +45,42 @@
 </p>
 
 **Core Skills:**
-- Component Architecture (Atomic Design, scalable structure)
-- State Management (Context API, React Query / TanStack Query)
-- Form Handling (React Hook Form / validation patterns)
-- Routing & Layout Patterns
-- Responsive Design (Mobile-first)
-- Accessibility (a11y basics)
-- UI/UX implementation from Figma/Zeplin
+- Scalable Component Architecture  
+- State Management (Context API, TanStack Query)  
+- Form Handling & Validation  
+- Responsive Design & Accessibility (a11y)  
+- UI implementation from Figma/Zeplin  
 
 ---
 
 ### ⚡ Performance & Optimization  
-- Code Splitting  
-- Lazy Loading  
-- Memoization (React.memo, useMemo, useCallback)  
-- Rendering optimization  
-- Bundle optimization (Vite, Next.js)  
+- Code Splitting & Lazy Loading  
+- Memoization & Rendering Optimization  
+- Bundle Optimization (Vite, Next.js)  
+- Image Optimization (Next.js Image)  
+
+---
+
+### 🔍 SEO & Web Optimization  
+- SEO with Next.js (SSR, SSG, Metadata API)  
+- Dynamic meta tags (title, description, Open Graph)  
+- Sitemap & robots.txt setup  
+- Performance optimization for Core Web Vitals  
+- Semantic HTML & accessibility for SEO  
+
+---
+
+### 🌐 Deployment & DevOps (Practical)  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,github" />
+</p>
+
+**Experience:**
+- Deploy applications using **Vercel**  
+- Domain configuration (DNS, subdomain, SSL)  
+- CI/CD with GitHub (auto deploy on push)  
+- Environment variables management  
+- Basic Docker containerization  
 
 ---
 
@@ -75,55 +95,33 @@
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 </p>
 
-**Experience:**
-- Build REST APIs  
-- API integration & error handling  
-- Authentication basics  
-- Working with CMS (Payload CMS)  
-
----
-
-### 🧰 Tools & Workflow  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn"/>
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain%20%26%20Deployment-0A0A0A?style=for-the-badge"/>
-</p>
-
 ---
 
 ### 🤖 AI-Assisted Development  
 - Prompt engineering for coding tasks  
-- Debugging with AI  
-- Code generation & refactoring  
-- Research acceleration  
-- Workflow automation using AI tools  
+- Debugging & refactoring with AI  
+- Automating repetitive dev workflows  
+- Research & learning acceleration  
 
 ---
 
 ## 🧠 Strengths
 
-✨ Build scalable & reusable component systems  
-⚡ Strong performance optimization mindset  
-🔌 Clean API integration & data flow handling  
-🐞 Debugging & problem-solving efficiently  
-🤖 Leverage AI to increase productivity & code quality  
-🎨 Good sense of UI/UX and pixel-perfect implementation  
+✨ Build scalable & maintainable frontend systems  
+⚡ Strong performance & SEO optimization mindset  
+🔌 Clean API integration & data handling  
+🐞 Efficient debugging & problem-solving  
+🤖 Leverage AI to boost productivity  
+🎨 Pixel-perfect UI with good UX sense  
 
 ---
 
 ## 📚 Currently Leveling Up
 
-🚀 Advanced **Next.js architecture & system design**  
-🧩 Backend depth (**authentication, database, scalability**)  
-🐳 Docker & deployment pipelines  
-⚡ Performance & accessibility (a11y) best practices  
-🧠 Clean code & large-scale project structure  
+🚀 Advanced Next.js & system design  
+🧩 Backend depth (auth, database, scalability)  
+🐳 Docker & CI/CD pipelines  
+⚡ Advanced SEO & performance optimization  
 
 ---
 
@@ -135,4 +133,4 @@
 
 ## 💫 Fun Fact
 
-💡 “I don’t just build UI — I build scalable, production-ready experiences.”
+💡 “I don’t just build UI — I build fast, SEO-friendly, production-ready web apps.”
