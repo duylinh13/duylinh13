@@ -1,5 +1,10 @@
 <h1 align="center">✨ HUYNH LE DUY LINH ✨</h1>
-<h3 align="center">🚀 Frontend Developer • React • Next.js • TypeScript</h3>
+
+<h3 align="center">Frontend Engineer • React • Next.js • TypeScript</h3>
+
+<p align="center">
+Building SaaS, E-commerce & AI-powered Web Applications
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=duylinh13&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -10,32 +15,56 @@
 
 ## 🌸 About Me
 
-💻 Frontend Developer with **2+ years of experience** building modern, scalable web applications.  
+Frontend Engineer with hands-on experience building production-ready SaaS platforms, e-commerce systems, and AI-powered web applications.
 
-⚛️ Strong expertise in **ReactJS ecosystem**, focusing on **performance, maintainable architecture, and clean UI systems**.  
+I specialize in React.js, Next.js, TypeScript, and modern frontend architecture, with experience developing scalable user interfaces, integrating REST APIs, implementing authentication and role-based access control (RBAC), optimizing SEO and performance, and collaborating across cross-functional product teams.
 
-🚀 Hands-on experience with **Next.js (App Router, SSR, SEO optimization)** and production deployment.  
-
-🤖 Advanced usage of **AI tools (ChatGPT, Claude, AI workflows)** to accelerate development and debugging.  
-
-🐳 Familiar with **Docker, domain setup, CI/CD pipelines, and cloud deployment (Vercel)**.  
-
-🎯 Goal: Become a **Senior Frontend Engineer** building scalable, high-impact products.
+My recent work includes multi-tenant SaaS platforms, AI-assisted website builders, payment integrations, CMS-driven applications, and merchant-facing management systems. I enjoy building maintainable products that balance user experience, performance, and business value.
 
 ---
 
-## ⚡ Tech Arsenal
+## 🚀 Featured Projects
 
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
+| Project | Description | Live Demo |
+|----------|-------------|------------|
+| Super Prompt | AI-powered prompt management platform focused on productivity and workflow organization | https://super-prompt-sepia.vercel.app |
+| Advanced Caro | Progressive Web Application (PWA) board game ecosystem with offline support and installable experience | https://www.advcaro.io.vn |
+| UI Kit | Reusable React component library and design system playground | https://ui-kit-sand-zeta.vercel.app |
+| Chut Chiu Coffee | Modern coffee shop landing page built with responsive UI and conversion-focused design | https://chutchiucoffee.vercel.app |
+| Garden Joy Pro | Business website focused on user experience, responsiveness, and SEO optimization | https://garden-joy-pro.vercel.app |
 
 ---
 
-### ⚛️ Frontend Development  
+## 💼 Professional Experience Highlights
+
+### Prime Production
+
+- Developed merchant-facing features for a multi-tenant SaaS website builder using Next.js and TypeScript
+- Built discount management systems, payment integrations, and tenant-specific website functionality
+- Developed reusable UI systems and mobile-first user experiences
+- Leveraged AI-assisted development workflows to accelerate implementation and debugging
+
+### KKAL Entertainment
+
+- Developed and maintained production-ready web applications using React.js and Next.js
+- Implemented SSR, SSG, and ISR strategies to improve SEO and performance
+- Built reusable component architectures and optimized frontend performance
+- Integrated APIs using TanStack Query and SWR
+
+### Teknix VN
+
+- Built administration interfaces for e-commerce systems
+- Integrated APIs through Payload CMS and MongoDB
+- Collaborated with team members in modern JavaScript and TypeScript development environments
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css" />
 </p>
 
 <p>
@@ -44,93 +73,76 @@
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui"/>
 </p>
 
-**Core Skills:**
-- Scalable Component Architecture  
-- State Management (Context API, TanStack Query)  
-- Form Handling & Validation  
-- Responsive Design & Accessibility (a11y)  
-- UI implementation from Figma/Zeplin  
+### State Management
+
+TanStack Query • SWR • Redux • Zustand • Context API
+
+### Backend Integration
+
+Node.js • REST APIs • Supabase • Payload CMS
+
+### Databases
+
+PostgreSQL • MongoDB
+
+### DevOps & Cloud
+
+Docker • Linux • Git • GitHub Actions • Vercel • CI/CD
+
+### AI & Productivity
+
+OpenAI API • Claude API • Prompt Engineering • AI-Assisted Development
 
 ---
 
-### ⚡ Performance & Optimization  
-- Code Splitting & Lazy Loading  
-- Memoization & Rendering Optimization  
-- Bundle Optimization (Vite, Next.js)  
-- Image Optimization (Next.js Image)  
+## 🧠 Core Strengths
+
+✨ Scalable and maintainable frontend architecture
+
+⚡ Performance optimization and SEO-focused development
+
+🔌 Clean API integration and data management
+
+🎨 Pixel-perfect responsive UI implementation
+
+🐞 Strong debugging and problem-solving mindset
+
+🤖 Effective use of AI tools to improve development productivity
 
 ---
 
-### 🔍 SEO & Web Optimization  
-- SEO with Next.js (SSR, SSG, Metadata API)  
-- Dynamic meta tags (title, description, Open Graph)  
-- Sitemap & robots.txt setup  
-- Performance optimization for Core Web Vitals  
-- Semantic HTML & accessibility for SEO  
+## 📚 Currently Learning
+
+🚀 Advanced Next.js and system design
+
+🧩 Backend architecture and scalability
+
+🐳 Docker and DevOps workflows
+
+⚡ Web performance and technical SEO
 
 ---
 
-### 🌐 Deployment & DevOps (Practical)  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,github" />
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duylinh13&show_icons=true" />
 </p>
 
-**Experience:**
-- Deploy applications using **Vercel**  
-- Domain configuration (DNS, subdomain, SSL)  
-- CI/CD with GitHub (auto deploy on push)  
-- Environment variables management  
-- Basic Docker containerization  
-
----
-
-### 🖥️ Backend (Working Knowledge)  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duylinh13&layout=compact" />
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-  <img src="https://img.shields.io/badge/Payload%20CMS-1E1E1E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-</p>
-
----
-
-### 🤖 AI-Assisted Development  
-- Prompt engineering for coding tasks  
-- Debugging & refactoring with AI  
-- Automating repetitive dev workflows  
-- Research & learning acceleration  
-
----
-
-## 🧠 Strengths
-
-✨ Build scalable & maintainable frontend systems  
-⚡ Strong performance & SEO optimization mindset  
-🔌 Clean API integration & data handling  
-🐞 Efficient debugging & problem-solving  
-🤖 Leverage AI to boost productivity  
-🎨 Pixel-perfect UI with good UX sense  
-
----
-
-## 📚 Currently Leveling Up
-
-🚀 Advanced Next.js & system design  
-🧩 Backend depth (auth, database, scalability)  
-🐳 Docker & CI/CD pipelines  
-⚡ Advanced SEO & performance optimization  
 
 ---
 
 ## 📬 Contact
 
-📧 **huynhleduylinh1311@gmail.com**
+📧 Email: huynhleduylinh1311@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/duylinh
+
+🐙 GitHub: https://github.com/duylinh13
 
 ---
 
-## 💫 Fun Fact
-
-💡 “I don’t just build UI — I build fast, SEO-friendly, production-ready web apps.”
+> Building modern, scalable, and user-focused web applications with React, Next.js, TypeScript, and AI-assisted workflows.
