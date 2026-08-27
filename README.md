@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Engineer • React • Next.js • TypeScript</h3>
 
 <p align="center">
-Building SaaS, E-commerce & AI-powered Web Applications
+  Building SaaS, E-commerce & AI-powered Web Applications
 </p>
 
 <p align="center">
@@ -15,134 +15,293 @@ Building SaaS, E-commerce & AI-powered Web Applications
 
 ## 🌸 About Me
 
-Frontend Engineer with hands-on experience building production-ready SaaS platforms, e-commerce systems, and AI-powered web applications.
+Frontend Engineer with hands-on experience building production-ready SaaS platforms, e-commerce systems, and modern web applications.
 
-I specialize in React.js, Next.js, TypeScript, and modern frontend architecture, with experience developing scalable user interfaces, integrating REST APIs, implementing authentication and role-based access control (RBAC), optimizing SEO and performance, and collaborating across cross-functional product teams.
+I specialize in **React.js, Next.js, and TypeScript**, with practical experience in scalable frontend architecture, REST API integration, authentication, role-based access control (RBAC), payment integrations, CMS-driven applications, SEO, and performance optimization.
 
-My recent work includes multi-tenant SaaS platforms, AI-assisted website builders, payment integrations, CMS-driven applications, and merchant-facing management systems. I enjoy building maintainable products that balance user experience, performance, and business value.
+I have worked on **multi-tenant SaaS platforms and AI-powered website builder products**, collaborating with BA, Designer, QA, and other cross-functional teams to deliver production features.
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Live Demo |
-|----------|-------------|------------|
-| Super Prompt | AI-powered prompt management platform focused on productivity and workflow organization | https://super-prompt-sepia.vercel.app |
-| Advanced Caro | Progressive Web Application (PWA) board game ecosystem with offline support and installable experience | https://www.advcaro.io.vn |
-| UI Kit | Reusable React component library and design system playground | https://ui-kit-sand-zeta.vercel.app |
-| Chut Chiu Coffee | Modern coffee shop landing page built with responsive UI and conversion-focused design | https://chutchiucoffee.vercel.app |
-| Garden Joy Pro | Business website focused on user experience, responsiveness, and SEO optimization | https://garden-joy-pro.vercel.app |
+I also actively use **AI-assisted development tools** such as ChatGPT, Claude, and AI coding workflows to accelerate implementation, debugging, research, and product development.
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🚀 Featured Personal Projects
 
-### Prime Production
+### 🤖 Super Prompt
 
-- Developed merchant-facing features for a multi-tenant SaaS website builder using Next.js and TypeScript
-- Built discount management systems, payment integrations, and tenant-specific website functionality
-- Developed reusable UI systems and mobile-first user experiences
-- Leveraged AI-assisted development workflows to accelerate implementation and debugging
+AI-powered prompt management and productivity platform.
 
-### KKAL Entertainment
+**Tech:** Next.js • TypeScript • React • Tailwind CSS
 
-- Developed and maintained production-ready web applications using React.js and Next.js
-- Implemented SSR, SSG, and ISR strategies to improve SEO and performance
-- Built reusable component architectures and optimized frontend performance
-- Integrated APIs using TanStack Query and SWR
+🔗 **Live Demo:**  
+https://super-prompt-sepia.vercel.app/
 
-### Teknix VN
+---
 
-- Built administration interfaces for e-commerce systems
-- Integrated APIs through Payload CMS and MongoDB
-- Collaborated with team members in modern JavaScript and TypeScript development environments
+### 🎮 Advanced Caro
+
+A Progressive Web Application (PWA) board game ecosystem with offline capabilities, responsive UI, and browser-based game logic.
+
+**Tech:** HTML5 • CSS3 • JavaScript • PWA • Service Worker • LocalStorage
+
+🔗 **Live Demo:**  
+https://www.advcaro.io.vn/
+
+---
+
+### 🧩 UI Kit
+
+Reusable UI component and design system playground built with modern React development practices.
+
+**Tech:** React • TypeScript • Vite • Tailwind CSS
+
+🔗 **Live Demo:**  
+https://ui-kit-sand-zeta.vercel.app/
+
+---
+
+### ☕ Chut Chiu Coffee
+
+Modern coffee shop website focused on responsive design, visual presentation, and user experience.
+
+**Tech:** React • TypeScript • Tailwind CSS
+
+🔗 **Live Demo:**  
+https://chutchiucoffee.vercel.app/
+
+---
+
+### 🌱 Garden Joy Pro
+
+Modern service-based business website with responsive layouts and a focus on performance and user experience.
+
+**Tech:** React • TypeScript • Tailwind CSS
+
+🔗 **Live Demo:**  
+https://garden-joy-pro.vercel.app/
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Prime Production
+
+**Frontend Engineer**
+
+- Developed merchant-facing features for a **multi-tenant SaaS website builder** using Next.js and TypeScript.
+- Built discount management systems and payment-related interfaces.
+- Implemented custom subdomain routing for tenant websites.
+- Developed reusable UI components and maintained a mobile-first design system.
+- Worked with tenant permissions and role-based access control.
+- Collaborated with BA, Designer, and QA teams throughout the product development lifecycle.
+- Leveraged AI-assisted development tools to accelerate implementation, debugging, and feature delivery.
+
+---
+
+### 🌎 KKAL Entertainment
+
+**Frontend Developer**
+
+- Developed and maintained production web applications using **React.js and Next.js**.
+- Built reusable and modular UI components using React Hooks and Context API.
+- Implemented **SSR, SSG, and ISR** using Next.js for performance and SEO optimization.
+- Integrated APIs and handled server state using **TanStack Query and SWR**.
+- Worked on responsive interfaces for international clients.
+- Focused on frontend performance, maintainability, and user experience.
+
+---
+
+### 💻 Teknix VN
+
+**Frontend Developer Intern**
+
+- Built administration interfaces for an e-commerce platform using TypeScript.
+- Developed product, category, and checkout-related interfaces.
+- Integrated APIs through **Payload CMS**.
+- Worked with **MongoDB** for application data.
+- Configured Node.js development environments for team collaboration.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui"/>
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui" />
 </p>
 
-### State Management
+### 🧠 State Management
 
-TanStack Query • SWR • Redux • Zustand • Context API
+- TanStack Query
+- SWR
+- Redux
+- Zustand
+- Context API
 
-### Backend Integration
+### 🔌 Backend & API Integration
 
-Node.js • REST APIs • Supabase • Payload CMS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Databases
+- REST API
+- Supabase
+- Payload CMS
+- Authentication
+- Role-Based Access Control (RBAC)
 
-PostgreSQL • MongoDB
+### 🗄️ Databases
 
-### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-Docker • Linux • Git • GitHub Actions • Vercel • CI/CD
+- PostgreSQL
+- MongoDB
 
-### AI & Productivity
+### ☁️ Cloud & DevOps
 
-OpenAI API • Claude API • Prompt Engineering • AI-Assisted Development
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" />
+</p>
+
+- Vercel
+- Docker
+- Git
+- GitHub
+- CI/CD
+- Environment Variables
+- Domain & DNS Configuration
+- SSL
+
+### 🤖 AI
+
+- OpenAI API
+- Claude API
+- Prompt Engineering
+- AI-assisted development
+- AI coding workflows
+- AI-powered product features
+
+---
+
+## 🚀 Frontend Engineering
+
+### Architecture
+
+- Reusable component architecture
+- Modular frontend systems
+- Design systems
+- Mobile-first development
+- Responsive UI
+- Clean and maintainable code
+
+### Performance
+
+- Code Splitting
+- Lazy Loading
+- Memoization
+- Rendering Optimization
+- Bundle Optimization
+- Next.js Image Optimization
+- Core Web Vitals
+
+### Next.js
+
+- App Router
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Incremental Static Regeneration (ISR)
+- Metadata API
+- Dynamic Routing
+- SEO Optimization
+
+### API & Data
+
+- REST API integration
+- Client/server state management
+- Data fetching and caching
+- Authentication flows
+- Role-based permissions
+- Form validation
+
+---
+
+## 🤖 AI-Assisted Development
+
+I actively use AI tools as part of my development workflow to improve productivity and accelerate product delivery.
+
+- AI-assisted implementation
+- Code generation and refactoring
+- Debugging and troubleshooting
+- API and architecture research
+- Prompt engineering
+- Repetitive task automation
+- Rapid prototyping
+- AI-powered product development
 
 ---
 
 ## 🧠 Core Strengths
 
-✨ Scalable and maintainable frontend architecture
+✨ Building scalable and maintainable frontend systems
 
-⚡ Performance optimization and SEO-focused development
+⚡ Performance and SEO optimization
 
-🔌 Clean API integration and data management
+🔌 Clean API integration and data handling
 
-🎨 Pixel-perfect responsive UI implementation
+🔐 Authentication and RBAC implementation
 
-🐞 Strong debugging and problem-solving mindset
+🎨 Responsive and pixel-perfect UI development
 
-🤖 Effective use of AI tools to improve development productivity
+🐞 Debugging and problem solving
 
----
+🤖 Effective use of AI-assisted development workflows
 
-## 📚 Currently Learning
-
-🚀 Advanced Next.js and system design
-
-🧩 Backend architecture and scalability
-
-🐳 Docker and DevOps workflows
-
-⚡ Web performance and technical SEO
+🤝 Cross-functional collaboration
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Leveling Up
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duylinh13&show_icons=true" />
-</p>
+🚀 Advanced Next.js & Frontend Architecture
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duylinh13&layout=compact" />
-</p>
+🧩 Backend Development & System Design
+
+🤖 AI Application Development
+
+🐳 Docker & CI/CD
+
+⚡ Web Performance & Technical SEO
 
 ---
 
 ## 📬 Contact
 
-📧 Email: huynhleduylinh1311@gmail.com
+📧 **Email:**  
+huynhleduylinh1311@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/duylinh
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/huynh-le-duy-linh-35b8982a1/
 
-🐙 GitHub: https://github.com/duylinh13
+🐙 **GitHub:**  
+https://github.com/duylinh13
 
 ---
 
-> Building modern, scalable, and user-focused web applications with React, Next.js, TypeScript, and AI-assisted workflows.
+<p align="center">
+  <i>Building modern, scalable and user-focused web applications with React, Next.js, TypeScript and AI-assisted workflows.</i>
+</p>
