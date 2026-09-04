@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/github/followers/duylinh13?label=Followers&style=flat&color=blue" />
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/duylinh13/CV/raw/main/Huynh-Le-Duy-Linh-Frontend-CV.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-FF4B4B?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
 ---
 
 ## 🌸 About Me
