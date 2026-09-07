@@ -35,7 +35,7 @@ Experienced **Fullstack Developer with a strong focus on Frontend Architecture**
   - Developed merchant-facing UI modules for fullstack configuration, RBAC, and custom domain management using Next.js & React.
   - Built reusable UI components and seamlessly integrated them with complex backend PostgreSQL REST APIs.
 - **Frontend Developer @ KKAL ENTERTAINMENT** *(09/2024 – 08/2025)*
-  - Developed and maintained responsive global web applications integrating backend APIs using React.js, Next.js, and TypeScript.
+  - Developed and maintained responsive global web applications integrating backend APIs and **Supabase** using React.js, Next.js, and TypeScript.
   - Applied Next.js rendering strategies to drastically improve performance and SEO.
 - **Fullstack Developer Intern @ TEKNIX VN** *(05/2024 – 07/2024)*
   - Built e-commerce admin interfaces with React.js & TypeScript, integrated REST APIs via Payload CMS and MongoDB-backed models.
@@ -97,6 +97,7 @@ Reusable UI component and design system playground built with modern React devel
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 **DevOps & Tools:**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
