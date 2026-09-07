@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Huynh Le Duy Linh 👋</h1>
-<h3 align="center">Frontend Engineer | React.js • Next.js • TypeScript • AI</h3>
+<h3 align="center">Fullstack Developer | React.js • Next.js • Node.js • AI</h3>
 
 <p align="center">Building Production-Ready SaaS, E-commerce & AI-powered Web Applications.</p>
 
@@ -19,44 +19,45 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer with nearly **2 years of professional experience** building production web applications and SaaS products using **React.js, Next.js, and TypeScript**. 
-- 🚀 **Specialized in:** Multi-tenant platforms, reusable UI systems, REST API integration, RBAC, and payment workflows.
-- 🤖 **AI-Assisted Development:** Proficient in leveraging AI tools for rapid implementation, code exploration, and building AI-powered features.
-- 💡 **Focus:** Delivering modern frontend architecture, data fetching, performance optimization, and seamless UX.
+Experienced Fullstack Developer with nearly **2 years of professional expertise** building scalable production applications and integrating advanced AI solutions. Expert in **React.js, Next.js, TypeScript, and Node.js**.
+- 🚀 **Specialized in:** Multi-tenant SaaS platforms, REST API Development, RBAC, Auth, and performance optimization.
+- 🤖 **AI & Engineering:** Proficient in AI-powered application development, embedding LLMs (OpenAI API, Claude), and Prompt Engineering.
+- 💡 **Focus:** Full software development lifecycle, seamless UX, robust backend services, and agile collaboration.
 
 ---
 
 ## 💼 Professional Experience
 
-- **Frontend Engineer @ PRIME PRODUCTION** *(08/2025 – 08/2026)*
-  - Developed production features for an AI-powered multi-tenant SaaS website builder using Next.js and TypeScript.
-  - Built merchant-facing modules for discount management, custom subdomains, and staff permissions.
+- **Fullstack Developer @ PRIME PRODUCTION** *(08/2025 – 08/2026)*
+  - Core developer for a multi-tenant SaaS website builder, leading the implementation of AI-powered website generation.
+  - Developed merchant-facing modules including fullstack configuration, RBAC, and custom domain management.
+  - Integrated complex backend REST APIs with PostgreSQL and optimized system performance.
 - **Frontend Developer @ KKAL ENTERTAINMENT** *(09/2024 – 08/2025)*
-  - Developed responsive web applications for international clients using React.js and Next.js (SSR, SSG, ISR).
-- **Frontend Developer Intern @ TEKNIX VN** *(05/2024 – 07/2024)*
-  - Built e-commerce admin interfaces with Payload CMS and MongoDB.
+  - Developed and maintained responsive global web applications integrating backend APIs using React.js/Next.js.
+  - Applied rendering strategies (SSR, SSG, ISR) to improve performance and SEO.
+- **Fullstack Developer Intern @ TEKNIX VN** *(05/2024 – 07/2024)*
+  - Built e-commerce admin interfaces with React.js & TypeScript, integrated REST APIs via Payload CMS and MongoDB.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 PRIMEWEB — AI-Powered Website & E-commerce Builder
-An AI-powered multi-tenant SaaS platform enabling SMEs to generate, customize, and publish e-commerce websites.
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Payload CMS, Stripe, OpenAI API.
+### 🤖 PRIMEWEB — AI-POWERED SaaS BUILDER
+AI-powered multi-tenant SaaS platform enabling SMEs to generate, customize, and publish e-commerce websites.
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind, Payload CMS, PostgreSQL, Stripe, OpenAI API.
+
+### 🎓 KPA EDU — ONLINE LEARNING PLATFORM
+Healthcare-focused e-learning platform with authentication, RBAC, protected routes, and multi-step license verification.
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, AI Content Generation, Shadcn/UI.
+
+### 🇻🇳 ADVANCED CARO — PWA BOARD GAME
+Offline-first Progressive Web App (PWA) board game implementing game logic and heuristic-based AI opponents.
+- **Tech Stack:** JavaScript, HTML5, CSS3, Service Workers.
 
 ### 🧠 Super Prompt
 AI-powered prompt management and productivity platform.
 - **Tech:** Next.js • TypeScript • React • Tailwind CSS
 - **Live Demo:** [super-prompt-sepia.vercel.app](https://super-prompt-sepia.vercel.app/)
-
-### 🇻🇳 Advanced Caro (PWA)
-A Progressive Web Application (PWA) board game ecosystem with offline capabilities, responsive UI, and heuristic AI opponents.
-- **Tech:** HTML5 • CSS3 • JavaScript • PWA • Service Worker 
-- **Live Demo:** [www.advcaro.io.vn](https://www.advcaro.io.vn/)
-
-### 🎓 KPA EDU — Online Learning Platform
-A healthcare-focused e-learning platform with authentication, protected routes, and multi-step license verification.
-- **Tech:** Next.js • TypeScript • Tailwind CSS • Supabase • Shadcn/UI
 
 ### ☕ Chut Chiu Coffee
 Modern coffee shop website focused on responsive design, visual presentation, and user experience.
@@ -91,9 +92,9 @@ Reusable UI component and design system playground built with modern React devel
 
 **Backend & Database:**  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 **DevOps & Tools:**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
