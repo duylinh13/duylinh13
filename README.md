@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Huynh Le Duy Linh 👋</h1>
-<h3 align="center">Fullstack Developer | React.js • Next.js • Node.js • AI</h3>
+<h3 align="center">Fullstack Developer (Frontend Focused) | React.js • Next.js • TypeScript • AI</h3>
 
 <p align="center">Building Production-Ready SaaS, E-commerce & AI-powered Web Applications.</p>
 
@@ -19,24 +19,26 @@
 
 ## 👨‍💻 About Me
 
-Experienced Fullstack Developer with nearly **2 years of professional expertise** building scalable production applications and integrating advanced AI solutions. Expert in **React.js, Next.js, TypeScript, and Node.js**.
-- 🚀 **Specialized in:** Multi-tenant SaaS platforms, REST API Development, RBAC, Auth, and performance optimization.
-- 🤖 **AI & Engineering:** Proficient in AI-powered application development, embedding LLMs (OpenAI API, Claude), and Prompt Engineering.
-- 💡 **Focus:** Full software development lifecycle, seamless UX, robust backend services, and agile collaboration.
+Experienced **Fullstack Developer with a strong focus on Frontend Architecture**. With nearly 2 years of professional expertise, I specialize in building seamless user experiences while integrating robust backend services. Expert in **React.js, Next.js, and TypeScript**, with solid fullstack capabilities using Node.js and PostgreSQL.
+
+- 🚀 **Frontend Expertise:** Crafting reusable UI systems, advanced state management, rendering optimization (SSR, SSG, ISR), and pixel-perfect design.
+- ⚙️ **Fullstack Capabilities:** Multi-tenant SaaS platforms, REST API Development, RBAC, Auth, and database modeling.
+- 🤖 **AI Integration:** Proficient in AI-powered application development, embedding LLMs (OpenAI API, Claude), and using AI for rapid development.
+- 💡 **Focus:** Delivering modern frontend architecture with complete end-to-end functionality and seamless UX.
 
 ---
 
 ## 💼 Professional Experience
 
 - **Fullstack Developer @ PRIME PRODUCTION** *(08/2025 – 08/2026)*
-  - Core developer for a multi-tenant SaaS website builder, leading the implementation of AI-powered website generation.
-  - Developed merchant-facing modules including fullstack configuration, RBAC, and custom domain management.
-  - Integrated complex backend REST APIs with PostgreSQL and optimized system performance.
+  - Core developer for a multi-tenant SaaS website builder, leading the frontend architecture and implementation of AI-powered website generation.
+  - Developed merchant-facing UI modules for fullstack configuration, RBAC, and custom domain management using Next.js & React.
+  - Built reusable UI components and seamlessly integrated them with complex backend PostgreSQL REST APIs.
 - **Frontend Developer @ KKAL ENTERTAINMENT** *(09/2024 – 08/2025)*
-  - Developed and maintained responsive global web applications integrating backend APIs using React.js/Next.js.
-  - Applied rendering strategies (SSR, SSG, ISR) to improve performance and SEO.
+  - Developed and maintained responsive global web applications integrating backend APIs using React.js, Next.js, and TypeScript.
+  - Applied Next.js rendering strategies to drastically improve performance and SEO.
 - **Fullstack Developer Intern @ TEKNIX VN** *(05/2024 – 07/2024)*
-  - Built e-commerce admin interfaces with React.js & TypeScript, integrated REST APIs via Payload CMS and MongoDB.
+  - Built e-commerce admin interfaces with React.js & TypeScript, integrated REST APIs via Payload CMS and MongoDB-backed models.
 
 ---
 
@@ -51,7 +53,7 @@ Healthcare-focused e-learning platform with authentication, RBAC, protected rout
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, AI Content Generation, Shadcn/UI.
 
 ### 🇻🇳 ADVANCED CARO — PWA BOARD GAME
-Offline-first Progressive Web App (PWA) board game implementing game logic and heuristic-based AI opponents.
+Offline-first Progressive Web App (PWA) board game implementing complex UI game logic and heuristic-based AI opponents.
 - **Tech Stack:** JavaScript, HTML5, CSS3, Service Workers.
 
 ### 🧠 Super Prompt
@@ -86,12 +88,12 @@ Reusable UI component and design system playground built with modern React devel
 
 **Frontend Frameworks:**  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
 
 **Backend & Database:**  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
