@@ -55,7 +55,7 @@ Healthcare-focused e-learning platform with authentication, RBAC, protected rout
 ### 🇻🇳 ADVANCED CARO — PWA BOARD GAME
 Offline-first Progressive Web App (PWA) board game implementing complex UI game logic and heuristic-based AI opponents.
 - **Tech Stack:** JavaScript, HTML5, CSS3, Service Workers.
-- - **Live Demo:** [advcaro](https://www.advcaro.io.vn)
+- **Live Demo:** [advcaro](https://www.advcaro.io.vn)
 
 ### 🧠 Super Prompt
 AI-powered prompt management and productivity platform.
