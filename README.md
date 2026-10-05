@@ -30,7 +30,7 @@ Experienced **Fullstack Developer with a strong focus on Frontend Architecture**
 
 ## 💼 Professional Experience
 
-- **Fullstack Developer @ PRIME PRODUCTION** *(08/2025 – 08/2026)*
+- **Fullstack Developer @ PRIME COMMERCE** *(08/2025 – 08/2026)*
   - Core developer for a multi-tenant SaaS website builder, leading the frontend architecture and implementation of AI-powered website generation.
   - Developed merchant-facing UI modules for fullstack configuration, RBAC, and custom domain management using Next.js & React.
   - Built reusable UI components and seamlessly integrated them with complex backend PostgreSQL REST APIs.
@@ -46,14 +46,14 @@ Experienced **Fullstack Developer with a strong focus on Frontend Architecture**
 
 ### 🤖 PRIMEWEB — AI-POWERED SaaS BUILDER
 AI-powered multi-tenant SaaS platform enabling SMEs to generate, customize, and publish e-commerce websites.
-- **Tech Stack:** Next.js, React, TypeScript, Tailwind, Payload CMS, PostgreSQL, Stripe, OpenAI API.
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind, PostgreSQL, Stripe, Claude, OpenAI API.
 
 ### 🎓 KPA EDU — ONLINE LEARNING PLATFORM
 Healthcare-focused e-learning platform with authentication, RBAC, protected routes, and multi-step license verification.
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, AI Content Generation, Shadcn/UI.
 
 ### 🇻🇳 ADVANCED CARO — PWA BOARD GAME
-Offline-first Progressive Web App (PWA) board game implementing complex UI game logic and heuristic-based AI opponents.
+Offline-first PWA board game attracting **nearly 900 active users** and driving **2,800+ organic clicks** (13,400+ impressions) within 6 months. Achieved near-perfect Google Lighthouse scores (**100 SEO, 100 Best Practices, 96 Accessibility**).
 - **Tech Stack:** JavaScript, HTML5, CSS3, Service Workers.
 - **Live Demo:** [advcaro](https://www.advcaro.io.vn)
 
@@ -110,4 +110,5 @@ Reusable UI component and design system playground built with modern React devel
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duylinh13&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
