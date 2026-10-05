@@ -4,7 +4,7 @@
 <p align="center">Building Production-Ready SaaS, E-commerce & AI-powered Web Applications.</p>
 
 <p align="center">
-  <a href="https://advcaro.io.vn/author.html" target="_blank">
+  <a href="https://github.com/duylinh13/CV/raw/main/Huynh-Le-Duy-Linh-Frontend-CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:huynhleduylinh1311@gmail.com">
@@ -110,3 +110,4 @@ Reusable UI component and design system playground built with modern React devel
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duylinh13&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
